@@ -1,2 +1,1 @@
-# he-thong-goi-y-phim
-"Đồ án hệ thống gợi ý phim sử dụng Big Data Analytics"
+phải có key từ TMDB và key từ AI deepseek nhé các bruhhhhhhh 
